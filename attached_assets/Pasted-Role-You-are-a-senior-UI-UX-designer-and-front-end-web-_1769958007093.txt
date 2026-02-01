@@ -1,0 +1,138 @@
+Role:
+You are a senior UI/UX designer and front-end web developer specialized in medical websites.
+
+Goal:
+Create a professional 1-page bilingual website (French / Arabic) for an ophthalmologist: Dr Fahd Jendoubi.
+
+⸻
+
+🌐 General Requirements
+	•	One-page website
+	•	Language switch button (FR / AR) clearly visible in the header
+	•	Arabic version must be RTL
+	•	Clean, medical, trustworthy design
+	•	White + blue + light green color palette (eye/medical theme)
+	•	Modern, readable fonts (professional, not playful)
+	•	Fully responsive (mobile first)
+
+⸻
+
+🧭 Website Sections (Top → Bottom)
+
+1. Header
+	•	Logo / eye icon (medical style)
+	•	Doctor name:
+	•	FR: Dr Fahd Jendoubi – Ophtalmologue
+	•	AR: الدكتور فهد الجندوبي – اختصاصي طب وجراحة العيون
+	•	Language toggle button (FR | AR)
+	•	“Prendre rendez-vous” / “حجز موعد” button
+
+⸻
+
+2. Hero Section
+	•	Short professional introduction
+	•	FR text example:
+Ophtalmologue à Ezzahrouni – Tunis, spécialisé en chirurgie oculaire et traitement au laser.
+	•	AR text example:
+اختصاصي في طب وجراحة العيون بتونس – الزهروني
+	•	1 large photo placeholder for Dr Fahd Jendoubi
+	•	Primary CTA button:
+	•	“Prendre rendez-vous” (link placeholder)
+	•	“حجز موعد”
+
+⸻
+
+3. À propos / نبذة
+	•	Short professional biography
+
+French content:
+Le Dr Fahd JENDOUBI est Ophtalmologue exerçant à Ezzahrouni, Tunis.
+Il possède des Masters complémentaires en contactologie, microchirurgie oculaire, oculoplastie et neuro-ophtalmologie.
+Il pratique la chirurgie de la cataracte (y compris premium), la chirurgie réfractive au laser (LASIK, PKR), la chirurgie du glaucome et la chirurgie vitréo-rétinienne.
+
+Arabic equivalent (formal medical Arabic).
+
+⸻
+
+4. Spécialités / الاختصاصات
+Use icons or cards:
+	•	Chirurgie de la cataracte (standard & premium)
+	•	Chirurgie réfractive au laser (LASIK, PKR)
+	•	Glaucome
+	•	Vitreo-rétine
+	•	Oculoplastie
+	•	Contactologie
+
+(Arabic translations aligned with medical tone)
+
+⸻
+
+5. Qualifications
+Simple list layout:
+	•	Doctorat en Médecine – Faculté de Médecine de Monastir
+	•	Spécialité en Ophtalmologie
+	•	Masters complémentaires :
+	•	Contactologie
+	•	Microchirurgie oculaire
+	•	Oculoplastie
+	•	Neuro-ophtalmologie
+	•	Traumatologie de l’œil
+	•	Uvéites
+
+⸻
+
+6. Cabinet Photos
+	•	Gallery section
+	•	3–6 image placeholders
+	•	Caption: Cabinet du Dr Fahd Jendoubi
+
+⸻
+
+7. Horaires & Paiement
+Two columns or cards:
+
+Horaires :
+	•	Lundi – Vendredi: 08:30 – 17:00
+	•	Samedi: 09:00 – 13:00
+	•	Dimanche: 10:00 – 12:00
+
+Modes de règlement :
+	•	Espèces
+	•	CNAM
+
+
+
+⸻
+
+8. Localisation
+	•	Address:
+49 rue Ennakhil, Ezzahrouni, Tunis
+	•	Embedded Google Map
+	•	Phone numbers:
+	•	+216 20 988 415
+	•	+216 20 988 742
+	•	Email:
+	•	jendoubi.fahd@gmail.com
+
+⸻
+
+9. Call To Action
+Large centered section:
+	•	“Prendre rendez-vous”
+	•	“حجز موعد”
+(Button links to external booking website – placeholder)
+
+⸻
+
+10. Footer
+	•	Social media icons (Facebook, Instagram – placeholders)
+	•	Copyright:
+© Dr Fahd Jendoubi – Tous droits réservés
+
+⸻
+
+🧑‍⚕️ Tone & Style
+	•	Trust-building
+	•	Medical & professional
+	•	Simple wording
+	•	Accessible to all ages

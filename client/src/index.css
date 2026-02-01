@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Medical Blue Palette */
+  --primary: 200 85% 35%;
+  --primary-foreground: 0 0% 100%;
+  
+  /* Fresh Green Palette */
+  --secondary: 150 60% 45%;
+  --secondary-foreground: 0 0% 100%;
+
+  /* Neutral/Backgrounds */
+  --background: 210 20% 99%;
+  --foreground: 215 25% 27%;
+  
+  --card: 0 0% 100%;
+  --card-foreground: 215 25% 27%;
+  
+  --popover: 0 0% 100%;
+  --popover-foreground: 215 25% 27%;
+  
+  --muted: 210 20% 96%;
+  --muted-foreground: 215 16% 47%;
+  
+  --accent: 200 20% 96%;
+  --accent-foreground: 200 85% 35%;
+  
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 98%;
+
+  --border: 220 13% 91%;
+  --input: 220 13% 91%;
+  --ring: 200 85% 35%;
+  
+  --radius: 0.75rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  /* Language-specific fonts */
+  [lang="fr"] {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  [lang="ar"] {
+    font-family: 'Cairo', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight text-primary;
+  }
+}
+
+/* RTL Support Utilities */
+[dir="rtl"] .rtl-flip {
+  transform: scaleX(-1);
+}
+
+[dir="rtl"] .rtl-ml-0 { margin-left: 0; }
+[dir="rtl"] .rtl-mr-0 { margin-right: 0; }
+[dir="rtl"] .rtl-mr-4 { margin-right: 1rem; }
+[dir="rtl"] .rtl-ml-4 { margin-left: 1rem; }
