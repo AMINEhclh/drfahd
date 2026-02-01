@@ -1,4 +1,11 @@
 {
+
+  "devDependencies": {
+  "@remix-run/dev": "^2.x.x"
+},
+"scripts": {
+  "build": "remix vite:build"
+}
   "name": "rest-express",
   "version": "1.0.0",
   "type": "module",
