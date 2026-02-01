@@ -3,15 +3,14 @@
   "devDependencies": {
   "@remix-run/dev": "^2.x.x"
 },
- "scripts": {
-    "build": "remix vite:build",
-    "start": "remix dev"
-  },
+ 
   "name": "rest-express",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
+    "build": "remix vite:build",
+    "start": "remix dev"
     "dev": "NODE_ENV=development tsx server/index.ts",
     "build": "tsx script/build.ts",
     "start": "NODE_ENV=production node dist/index.cjs",
